@@ -1,0 +1,15 @@
+﻿charset,UTF-8
+
+craftman,LiuTsao
+craftmanw,流草
+craftmanurl,https://www.plurk.com/liutsao0124
+
+name,流夏
+type,ghost
+
+sakura.name,流夏
+kero.name,
+
+icon,
+cursor,
+shiori,satori.dll
